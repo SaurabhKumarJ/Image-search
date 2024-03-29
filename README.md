@@ -1,4 +1,4 @@
-#Image Search Using Unsplash API
+# Image Search Using Unsplash API
 This project is a simple image search website built using HTML, CSS, and JavaScript, powered by the Unsplash API. Users can enter keywords to find a variety of beautiful, high-resolution images from Unsplash.
 
 ## Features:
